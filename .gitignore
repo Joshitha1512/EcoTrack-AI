@@ -1,0 +1,19 @@
+# ===== GLOBAL =====
+.env
+.env.*
+*.log
+
+# ===== PYTHON =====
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ===== NODE =====
+node_modules/
+dist/
+build/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
